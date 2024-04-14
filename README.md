@@ -1,10 +1,10 @@
-# Development of Healthcare Robot for Patient Vital Monitoring System
+# Development of Healthcare Robot for Patient Vital Monitoring System
 
 🤖 Welcome to the Social Robot Health Monitoring System project! 🏥
 
 ## Overview
 
-The "Social Robot Health Monitoring System" is an innovative project aimed at creating an intelligent health monitoring robot. It leverages cutting-edge technology to provide comprehensive health monitoring in social settings.
+The "Development of Healthcare Robot for Patient Vital Monitoring System" is an innovative project aimed at creating an intelligent health monitoring robot. It leverages cutting-edge technology to provide comprehensive health monitoring in social settings.
 
 ## Purpose
 
