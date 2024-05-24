@@ -603,6 +603,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     top: 0.25%;
     left: 45.8%;
     z-index: -1;
+    margin-bottom:20px;
 }
 
 .main-timeline .timeline {
