@@ -458,7 +458,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 span.single-timeline-horizontal {
     display: inline-block;
     background: #b2c1ce;
-    height: 1px;
+    height: 10px;
     width: 400px;
     position: absolute; /* Position the span absolutely */
     left: 0;    
