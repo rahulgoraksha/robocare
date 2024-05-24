@@ -518,7 +518,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     height: 8px;
     margin-top: 15px;
     width: 85%;
-    margin-bottom: 45px;
+    margin-bottom: 40px;
 }
 
 .progress-bar {
@@ -647,7 +647,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     left: -3px;
     position: absolute;
     width: 100%;
-    height: 400px;
+    height: 410px;
     border-left: 15px solid #fff;
 }
 
