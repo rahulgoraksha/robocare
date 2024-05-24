@@ -615,7 +615,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     position: absolute;
     font-size: 10px;
     left: -14.5%;
-    z-index: 100;
+    z-index: 1;
 }
 
 .timeline-content h4.title {
